@@ -2,22 +2,14 @@
 
 ## 👋 Hi there, I'm Nahim!
 
-I'm a  Software Engineer with a love for clean code and problem-solving.
+I'm a  Software Engineer with a background building System Softwares, Games, Native Android Applications and Embedded Systems(like robotss 🤖).
 
 ### 🔧 Technologies and Tools
 
-- 💻 Programming Languages: C++, Java, Python.
+- 💻 Programming Languages: C++, Java, Python, x86 Assembly.
 - 🛠️ Frameworks and Libraries: Boost, Asio, OpenGL, Vulkan.
-- 🧰 Tools and DevOps: , CI/CD].
+- 🧰 Tools and DevOps: Visual Studio, RenderDoc, Android Studio, CI/CD.
 - 🤖 Mobile Development: Native Android Development with Android SDK using Java. Also NDK using C++.
-
-### 🌱 What I'm Currently Learning
-
-- [Describe what you're currently learning or any projects you're working on to enhance your skills].
-
-### 🚀 What I'm Passionate About
-
-- [Share your passions and interests related to coding, such as open-source contributions, tech communities, or specific projects].
 
 ### 💬 Let's Connect
 
