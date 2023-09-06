@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Nahim!
 
-I'm a  Software Engineer with a background building Games, Native Android Applications, System Softwares, and Embedded Systems(like robotss 🤖).
+I'm a  Software Engineer with a background building Games, Android Apps(Native), System Softwares, and Embedded Systems(like robotss 🤖).
 
 ## 🔧 Technologies and Tools
 
