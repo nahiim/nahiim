@@ -13,7 +13,7 @@ I'm a  Software Engineer with a background building Games, Native Android Applic
 
 ## Some Notable Projects on this Repository
 
-- ### Portfolio of Android Apps
+- ### [Portfolio of Android Apps](https://github.com/nahiim/android_portfolio)
 - ### [3D Game Engine with OpenGL](https://github.com/nahiim/Obsidion)  
   
   
