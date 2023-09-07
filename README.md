@@ -9,7 +9,7 @@ I'm a  Software Engineer with a background building Games, Android Apps(Native),
 - 💻 Programming Languages: C++, Java, Python, C, x86 Assembly.
 - 🛠️ Frameworks and Libraries: Boost, Asio, OpenGL, Vulkan.
 - 🧰 Tools and DevOps: Visual Studio, RenderDoc, Android Studio, Arduino, GitHub Actions.
-- 🤖 Mobile Development: Native Android Development with Android SDK using Java. Also NDK using C++.
+- 📱  Mobile Development: Native Android Development with Android SDK using Java. Also NDK using C++.
 
 ## 📁 Some Notable Projects on this Repository
 
