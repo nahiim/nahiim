@@ -11,10 +11,10 @@ I'm a  Software Engineer with a background building Games, Android Apps(Native),
 - 🧰 Tools and DevOps: Visual Studio, RenderDoc, Android Studio, Arduino, GitHub Actions.
 - 🤖 Mobile Development: Native Android Development with Android SDK using Java. Also NDK using C++.
 
-## Some Notable Projects on this Repository
+## 📁 Some Notable Projects on this Repository
 
-- ### [Portfolio of Android Apps](https://github.com/nahiim/android_portfolio)
-- ### [3D Game Engine with OpenGL](https://github.com/nahiim/Obsidion)  
+- ### 📁 [Portfolio of Android Apps](https://github.com/nahiim/android_portfolio)
+- ### 🎮 [3D Game Engine with OpenGL](https://github.com/nahiim/Obsidion)  
   
   
   
