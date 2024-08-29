@@ -28,7 +28,7 @@ A custom game engine built using OpenGL, featuring Box2D physics, 3D animation s
 
 <table style="border: none;" height="500">
   <tr>    
-    <td style="width: 25%; height: 50% border: none;">
+    <td style="width: 25%; border: none;">
       <img src="https://github.com/nahiim/nahiim.github.io/blob/main/images/GLES3JNI.jpg?raw=true" alt="Image 1">
     </td>
     <td style="width: 75%; border: none;">
@@ -39,7 +39,7 @@ A custom game engine built using OpenGL, featuring Box2D physics, 3D animation s
 
 
 ### 🎮 [Smartphone controlled vehicle with robotic arm(SAFBOT)](https://github.com/nahiim/fire-robot)
-This project integrates an ESP32 microcontroller, a robotic arm, and a water pump into a compact vehicle that can be remotely controlled via a mobile Android app.
+A compact vehicle with a water pump that can be remotely controlled via a mobile Android app.
 
 - **Key Features**:
   - Remote Vehicle Control: Users can move the vehicle in any direction and adjust its speed via the Android app.
