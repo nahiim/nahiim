@@ -28,7 +28,7 @@ A custom game engine built using OpenGL, featuring Box2D physics, 3D animation s
 
 <table style="border: none;">
   <tr>    
-    <td style="width: 25%; border: none;">
+    <td style="width: 25%; height: 50% border: none;">
       <img src="https://github.com/nahiim/nahiim.github.io/blob/main/images/GLES3JNI.jpg?raw=true" alt="Image 1">
     </td>
     <td style="width: 75%; border: none;">
@@ -53,7 +53,7 @@ This project integrates an ESP32 microcontroller, a robotic arm, and a water pum
   - Wi-Fi: Facilitates communication between the Android app and the ESP32 microcontroller.
 
 
-<img src="saf.jpg" alt="Screenshot" height="300"/>
+<img src="saf.jpg" alt="Screenshot" height="500"/>
 
 ## 📫 Get in Touch
 
