@@ -26,7 +26,7 @@ A custom game engine built using OpenGL, featuring Box2D physics, 3D animation s
   - Procedural Terrain
 
 
-<table style="border: none;">
+<table style="border: none;" height="500">
   <tr>    
     <td style="width: 25%; height: 50% border: none;">
       <img src="https://github.com/nahiim/nahiim.github.io/blob/main/images/GLES3JNI.jpg?raw=true" alt="Image 1">
