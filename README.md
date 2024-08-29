@@ -38,7 +38,7 @@ A custom game engine built using OpenGL, featuring Box2D physics, 3D animation s
 </table>
 
 
-### 🎮 [Smartphone controlled vehicle with robotic arm(SAFBOT)](https://github.com/nahiim/fire-robot)
+### 🤖 [Smartphone controlled vehicle with robotic arm(SAFBOT)](https://github.com/nahiim/fire-robot)
 A compact vehicle with a water pump that can be remotely controlled via a mobile Android app.
 
 - **Key Features**:
