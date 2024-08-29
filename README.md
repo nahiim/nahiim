@@ -52,7 +52,8 @@ This project integrates an ESP32 microcontroller, a robotic arm, and a water pum
   - Servo Motors: Used in the robotic arm for accurate movement.
   - Wi-Fi: Facilitates communication between the Android app and the ESP32 microcontroller.
 
-![Screenshot](saf.jpg)
+
+<img src="saf.jpg" alt="Screenshot" height="300"/>
 
 ## 📫 Get in Touch
 
