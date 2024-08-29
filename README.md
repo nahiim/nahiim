@@ -13,7 +13,7 @@ A Vulkan-based 3D engine with advanced features such as PBR, particle systems, f
   - Compute Shaders for simulations and map generation
   - Instanced Rendering
 
-![Screenshot of the Engine](ss/screenshot.png)
+![Screenshot](ss/screenshot.png)
 
 ### 🎮 [OpenGL Game Engine](https://github.com/nahiim/obsidion)
 A custom game engine built using OpenGL, featuring Box2D physics, 3D animation skinning, and sound integration with OpenAL. It was developed to create games for various game jams and personal projects.
