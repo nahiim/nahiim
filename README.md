@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer with a strong focus on gra
 A Vulkan-based 3D engine with advanced features such as PBR, particle systems, fluid and cloth simulations, and skybox rendering. Designed for high-performance and scalability, Hydroxy is a playground for experimenting with the latest graphics techniques.
 
 - **Key Features**: 
-  - Physically Based Rendering (PBR)
+  - Physically Based Rendering (Cook Torrence BRDF)
   - Image Based Lighing
   - Compute Shaders for simulations and map generation
   - Instanced Rendering
