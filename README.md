@@ -1,4 +1,4 @@
-# Hi there, I'm Abiodun! 👋
+# PORTFOLIO
 
 Welcome to my GitHub profile! I'm a Computer Engineer with a strong focus on graphics programming, game development, and high-performance rendering. Below, you'll find an overview of my work and personal projects.
 
