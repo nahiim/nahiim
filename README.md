@@ -5,13 +5,7 @@ Welcome to my GitHub profile! I'm a Computer Engineer with a strong focus on gra
 ## 🔭 Featured Projects
 
 ### 🚀 [Vulkan Realtime Rendering Engine](https://github.com/nahiim/hdx)
-A Vulkan-based 3D engine with advanced features such as PBR, particle systems, fluid and cloth simulations, and skybox rendering. Designed for high-performance and scalability, it is a playground for experimenting with the latest graphics techniques.
-
-- **Key Features**: 
-  - Physically Based Rendering (Cook Torrence BRDF)
-  - Image Based Lighing
-  - Compute Shaders for simulations and map generation
-  - Instanced Rendering
+This project is a Vulkan-based 3D rendering engine developed in C++. The engine is being developed as a learning exercise and to showcase advanced rendering techniques and real-time graphics features. It includes various examples and implementations of modern rendering techniques, making it a robust foundation for graphics programming and engine development.
 
 ![Screenshot](screenshot.png)
 
